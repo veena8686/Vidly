@@ -50,6 +50,11 @@ D:\test\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 D:\test\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
 D:\test\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 D:\test\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\test\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 D:\test\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\test\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.moviecustomer.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.DataAnnotationsCustomer.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMembershiptype.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.populatemembershiptypes.resources
