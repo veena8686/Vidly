@@ -19,16 +19,16 @@ namespace Vidly.Migrations
             AddColumn("dbo.Movies", "ReleaseDate", c => c.DateTime(nullable: false));
             AddColumn("dbo.Movies", "DateAdded", c => c.DateTime(nullable: false));
             AddColumn("dbo.Movies", "Stock", c => c.Int(nullable: false));
-            AddColumn("dbo.Movies", "Genre_Id", c => c.Int());
-            CreateIndex("dbo.Movies", "Genre_Id");
-            AddForeignKey("dbo.Movies", "Genre_Id", "dbo.Genres", "Id");
+            AddColumn("dbo.Movies", "GenreId", c => c.Int());
+            CreateIndex("dbo.Movies", "GenreId");
+            AddForeignKey("dbo.Movies", "GenreId", "dbo.Genres", "Id", cascadeDelete: true);
         }
         
         public override void Down()
         {
-            DropForeignKey("dbo.Movies", "Genre_Id", "dbo.Genres");
-            DropIndex("dbo.Movies", new[] { "Genre_Id" });
-            DropColumn("dbo.Movies", "Genre_Id");
+            DropForeignKey("dbo.Movies", "GenreId", "dbo.Genres");
+         //   DropIndex("dbo.Movies", new[] { "GenreId" });
+         //   DropColumn("dbo.Movies", "GenreId");
             DropColumn("dbo.Movies", "Stock");
             DropColumn("dbo.Movies", "DateAdded");
             DropColumn("dbo.Movies", "ReleaseDate");

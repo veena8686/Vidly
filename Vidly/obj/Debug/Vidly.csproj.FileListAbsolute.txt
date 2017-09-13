@@ -64,3 +64,8 @@ D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genretomovies.resources
 D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.populategenre.resources
 D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genreidtomovie.resources
 D:\test\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.membershiptype.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genrestable.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genreidremovemovies.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.foreignkeygenremovie.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genreidforeignmovies.resources
