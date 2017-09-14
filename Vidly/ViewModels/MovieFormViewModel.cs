@@ -27,7 +27,7 @@ namespace Vidly.ViewModels
 
         [Required]
         [Range(1, 20, ErrorMessage = "The field Number in Stock must be between 1 and 20.")]
-        public byte? Stock { get; set; }
+        public int? Stock { get; set; }
 
         public string Title
         {
