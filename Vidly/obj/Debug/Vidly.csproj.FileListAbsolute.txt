@@ -69,3 +69,4 @@ D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genrestable.resources
 D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genreidremovemovies.resources
 D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.foreignkeygenremovie.resources
 D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.genreidforeignmovies.resources
+D:\test\Vidly\Vidly\obj\Debug\Vidly.Migrations.moviedefaultannotation.resources
